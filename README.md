@@ -20,7 +20,7 @@ Reduced time and effort spent searching for jobs
 Technical Details:-
 The platform uses 2 az virtual machines, a load balancer, and Azure DNS, .tech domain name from the github student dev pack. The virtual machines will make use of shared disk.
 
-Conclusio:-
+Conclusion:-
 The proposed platform is a valuable tool that will help students to find jobs and improve their career prospects. The platform is technically feasible and will have a number of benefits for students and the college.
 
 Getting Started
